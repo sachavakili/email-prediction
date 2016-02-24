@@ -196,6 +196,14 @@ for i, j, k in zip(X.sender, X.receiver, X.datetime):
     # Modifying the tensor value for the tuple (i_ind, j_ind, k_ind)
     T[i_ind, j_ind, k_ind] += 1
 
+# Logarithmic Transformation
+nonz = T.nonzero()
+for ind in range(len(nonz[0])):
+    i_ind = nonz[0][ind]
+    j_ind = nonz[1][ind] 
+    k_ind = nonz[2][ind]
+    
+    T[i_ind, j_ind, k_ind] = 1 + np.log(T[i_ind, j_ind, k_ind]) 
 
 # ### Useful Code for finding dataframe lines corresponding to given values
 
