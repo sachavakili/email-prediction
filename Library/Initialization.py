@@ -189,9 +189,9 @@ T = dtensor(T)
 # Going through the dataframe
 for i, j, k in zip(X.sender, X.receiver, X.datetime):
     # Finding the corresponding index in the tensor
-    i_ind = [i_ind for i_ind, x in enumerate(i_list) if x == i][0]
-    j_ind = [j_ind for j_ind, x in enumerate(j_list) if x == j][0]
-    k_ind = [k_ind for k_ind, x in enumerate(k_list) if x == k][0]
+    i_ind = int(np.where(i_list == i)[0])
+    j_ind = int(np.where(j_list == j)[0])
+    k_ind = int(np.where(k_list == k)[0])
     
     # Modifying the tensor value for the tuple (i_ind, j_ind, k_ind)
     T[i_ind, j_ind, k_ind] += 1
