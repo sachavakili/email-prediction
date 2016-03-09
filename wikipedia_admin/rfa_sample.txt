@@ -1,0 +1,71 @@
+SRC:Steel1943
+TGT:BDD
+VOT:1
+RES:1
+YEA:2013
+DAT:23:13, 19 April 2013
+TXT:'''Support''' as co-nom. 
+
+SRC:Cuchullain
+TGT:BDD
+VOT:1
+RES:1
+YEA:2013
+DAT:01:04, 20 April 2013
+TXT:'''Support''' as nominator.--
+
+SRC:INeverCry
+TGT:BDD
+VOT:1
+RES:1
+YEA:2013
+DAT:23:43, 19 April 2013
+TXT:'''Support''' per noms. 
+
+SRC:Cncmaster
+TGT:BDD
+VOT:1
+RES:1
+YEA:2013
+DAT:00:11, 20 April 2013
+TXT:'''Support''' per noms. BDD is a strong contributor with thousands of edits and years of experience. I have no problem supporting. 
+
+SRC:Miniapolis
+TGT:BDD
+VOT:1
+RES:1
+YEA:2013
+DAT:00:56, 20 April 2013
+TXT:'''Support''', with great pleasure. I work with BDD at the [[WP:GOCE|Guild of Copy Editors]] (where we're both coordinators), and have seen their good work at RM and AfD. A fine addition to the admin corps. 
+
+SRC:Sven Manguard
+TGT:BDD
+VOT:1
+RES:1
+YEA:2013
+DAT:01:53, 20 April 2013
+TXT:'''Support''' There are plenty of important roles on this project, of which content creator is only one of them. BDD has done good work over a number of years. That his primary activity is not content creation is not of concern. 
+
+SRC:Ramaksoud2000
+TGT:BDD
+VOT:1
+RES:1
+YEA:2013
+DAT:02:00, 20 April 2013
+TXT:'''Support''' per noms. I don't see a reason not to. 
+
+SRC:RockMagnetist
+TGT:BDD
+VOT:1
+RES:1
+YEA:2013
+DAT:02:18, 20 April 2013
+TXT:'''Support'''  BDD already wields a broom pretty well, so why not formalize it? I'm not too concerned about the lack of in-depth experience in developing articles because he has contributed so much to the [[Wikipedia:WikiProject Guild of Copy Editors|Guild of Copy Editors]] backlog drives: as his [[User:BDD/Barnstars|his barnstars]] attest, he has often been on the leaderboard. We don't all need to take the same route to adminship. My only quibble is a very minor one - what's with all the edits to his user talk archives? I hope that he will keep any current discussions involving administration on his main talk page, so other editors can find them easily. 
+
+SRC:Carrite
+TGT:BDD
+VOT:1
+RES:1
+YEA:2013
+DAT:02:22, 20 April 2013
+TXT:'''Support''' barring a completely unexpected answer to pro-forma question 6 above. The heads up about the old [http://en.wikipedia.org/w/index.php?title=User:BDD&oldid=16988125 2005 User Page] is a good one; someone that "right on" at age 17 is certainly worthy of support after the better part of a decade of additional seasoning (sporting a clean block log and no indications of assholery over that time, unsurprisingly). Concerns about relative lack of content creation are misplaced; administrative functions are only tangential to content writing, which is the reason that some of the best writers are not administrators and some of the best administrators do little in the way of mainspace content creation. An excellent candidate. 
