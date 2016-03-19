@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Mac
+.DS_Store
+
+# vim buffer
+.*.swp
+
+# python compiled
+*.pyc
+
+# rope project
+.ropeproject
+
+# nb checkpoints
+.ipynb_checkpoints
